@@ -32,7 +32,7 @@ Skills: HTML / CSS
 
 
 <br />
-## :computer: Technologies that I know
+:computer: Technologies that I know
 <br>
 
 
