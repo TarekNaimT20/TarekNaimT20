@@ -1,7 +1,7 @@
-### Hi there 👋
+### Hi there 👋 my name is Tarek Naim Nadim
 
 
-**TarekNaimT20/TarekNaimT20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
