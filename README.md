@@ -27,9 +27,10 @@ Skills: HTML / CSS
 
  ![GitHub streak stats](https://streak-stats.demolab.com/?user=TarekNaimT20) 
 
- <p align="center">
-	 <img width="60%" src="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=TarekNaimT20&theme=dracula&exclude_days=Sun" alt="GitHub Streak" />
+<p align="center">
+	<img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=TarekNaimT20&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
+
 
 
 
