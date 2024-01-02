@@ -26,7 +26,7 @@ Here are some ideas to get you started
 
 <br />
 
-:computer: Technologies that I know
+### :computer: Technologies that I know
 
 <br>
 
