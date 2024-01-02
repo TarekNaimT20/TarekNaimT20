@@ -1,4 +1,4 @@
-## :eyes: Current overview      
+## :⭐: Current overview      
 <br />
 
 
@@ -10,8 +10,6 @@ Here are some ideas to get you started
 - 🌱 I’m currently learning ...
 - 📫 How to reach me sikderofficial1234@gmail.com
 - 🤔 ...
-- 💬 
-- 📫 
 - 😄 
 - ⚡ 
 
@@ -49,6 +47,5 @@ Here are some ideas to get you started
 <p align="center">
 	<img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=TarekNaimT20&theme=vue&hide_border=true" alt="GitHub Streak" />
 </p>
-
 
 
