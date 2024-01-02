@@ -36,6 +36,9 @@ Skills: HTML / CSS
 <br>
 
 
+<br/> 
+
+
 
 <p align="center">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="25"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="25"/> <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white" height="25"/> <img src="https://img.shields.io/badge/python-563D7C?style=for-the-badge&logo=python&logoColor=white" height="25"/>
@@ -45,6 +48,9 @@ Skills: HTML / CSS
 <h2 align="center">
      :chart_with_upwards_trend: Current Streak 
 </h2>
+
+
+<br/> 
 
 <p align="center">
 	<img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=TarekNaimT20&theme=vue&hide_border=true" alt="GitHub Streak" />
