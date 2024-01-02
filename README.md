@@ -25,10 +25,10 @@ Skills: HTML / CSS
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/TarekNaimT20) 
 
- ![GitHub streak stats](https://streak-stats.demolab.com/?user=TarekNaimT20) 
+ 
 
 <p align="center">
-	<img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=TarekNaimT20&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+	<img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=TarekNaimT20&theme=vue&hide_border=true" alt="GitHub Streak" />
 </p>
 
 
